@@ -1,2 +1,2 @@
-# bio-informatica
-Todos os trabalhos da disciplina de bio informatica
+# bioinformatica
+Todos os trabalhos da disciplina de bioinformática
